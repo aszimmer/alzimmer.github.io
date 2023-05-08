@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Alexis Zimmer 
+logo: "/images/logo.png?raw=true" 
+description: > 
+  Business Analyst | Orlando, FL
   <br><br>
-  Second description 
+   <SPAN STYLE="font-size:9px"> M.S. in Data Science (Expected June 2023) <br>
+   B.S. in Biotechnology, B.S. in Mathematics </span>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
