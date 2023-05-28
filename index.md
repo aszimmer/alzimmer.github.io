@@ -8,9 +8,9 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
         <div id="contact-form">
                 <form action="https://formspree.io/xpzebbpr" method="POST">
                 <input type="hidden" name="_subject" value="Contact Me" />
-                <input type="email" name="_replyto" placeholder="Your email" required><br>
-                <textarea name="message" placeholder="Type your message" required></textarea>
-                <button type="submit">Send</button>
+                <input type="email" name="_replyto" placeholder="Your Email Address" required><br>
+                <textarea name="message" placeholder="Type your message here!" required></textarea><br>
+                <button type="submit">Submit</button>
             </form>
         </div>
     </div>
@@ -18,12 +18,26 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
 
 ### My Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Analysis of COVID-19 Impacts to Education Attainment](http://example.com/)
+        - R, Descriptive Analysis, Higher Education
+- [API Utilization and Analysis](http://example.com/)
+        - API, Webscraping, Python, Descriptive Analysis
+- [Analysis of Employee Attrition](http://example.com/)
+        - Python, Descriptive Analysis, Human Resources, Talent Acquisition
+- [Predicting Employee Attrition Rates](http://example.com/)
+        - Python, Predictive Analysis, uman Resources, Talent Acquisition       
+- [Sentiment Analysis](http://example.com/)
+        - Python, TextBlob, Sentiment Analysis
+- [Predicting Graduation Rates](http://example.com/)
+        - Python, Predictive Analysis, Random Forest Classifier, Higher Education
+- [Time Series Modeling](http://example.com/)
+        - Python, Time Series, Marketing and Sales
+- [ALS Analysis](http://example.com/)
+        - Python, Cluster Analysis
+- [Predicting Promotion Rates](http://example.com/)
+        - Python, Predictive Analysis, Human Resources, Talent Acquisition
+- [Sentiment Analysis on Employee Reviews](http://example.com/)
+        - Python, Predictive Analysis, Human Resources, Talent Acquisition
 ---
 
 
