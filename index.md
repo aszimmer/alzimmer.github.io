@@ -5,7 +5,6 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
 ### Contact Me
 
 <div id="contact">
-        <h2>Get in Touch</h2>
         <div id="contact-form">
                 <form action="https://formspree.io/xpzebbpr" method="POST">
                 <input type="hidden" name="_subject" value="Contact Me" />
