@@ -7,8 +7,6 @@ description: >
    B.S. in Biotechnology, B.S. in Mathematics </span>
   <br>
  
- <SPAN STYLE="font-size:11px">[Check out my technical expertise and certifications here](aszimmer.github.io/work_experience.md)</span><br>
- 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
