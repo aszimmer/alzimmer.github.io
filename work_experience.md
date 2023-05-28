@@ -14,4 +14,6 @@
 - Advanced Designer (2022)
 
 **SQL**<br>
-- text
+- EDB PostgreSQL 12 Associate (2022)
+- Advanced SQL for Data Scientists (2022)
+- Intermediate SQL for Data Scientists (2022)
