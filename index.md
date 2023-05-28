@@ -2,7 +2,7 @@
 
 Hi, I'm Alexis! My job as a business analyst consists of performing, documenting, visualizing, and communicating analyses to key business partners and stakeholders, as well as uncovering areas for improvement and developing and implementing solutions. Since 2021, I have been working in Learning and Development and am excited to continue learning and exploring new ways to incorporate data science and analytics in this space! <br>
 
- <SPAN STYLE="font-size:11px">[View my technical expertise and certifications here.](aszimmer.github.io/work_experience.md)</span><br>
+[View my technical expertise and certifications here.](work_experience.md)<br>
  
 ### Contact Me
 
