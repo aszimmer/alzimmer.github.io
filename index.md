@@ -8,7 +8,7 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
         <div id="contact-form">
                 <form action="https://formspree.io/xpzebbpr" method="POST">
                 <input type="hidden" name="_subject" value="Contact Me" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
+                <input type="email" name="_replyto" placeholder="Your email" required><br>
                 <textarea name="message" placeholder="Type your message" required></textarea>
                 <button type="submit">Send</button>
             </form>
