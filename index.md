@@ -37,7 +37,7 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
         
 - [Predicting Graduation Rates](http://example.com/)<br>
         - Python, Predictive Analysis, Random Forest Classifier, Higher Education
-        -
+
 - [Time Series Modeling](http://example.com/)<br>
         - Python, Time Series, Marketing and Sales
         
