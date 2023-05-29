@@ -1,31 +1,19 @@
-## This can be your internal website page / project page
+## Analysis of COVID-19 Impacts to Education Attainment
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** a descriptive analysis completed in R that focused on better understanding barriers students faced in their educational journey during the peak of the pandemic. Looking at student behavior historically can help educators address the new learning landscape.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Problem Statement
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+By diving into the qualitative data collected (and artifically created) by researchers, the aim was to better understand the barriers that students are facing in their educational journey in light of the pandemic. Quantifying student behavior through a qualitative lens helps drive policy and programs that can better nurture education or student well-being.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### Results and Implications
 
-### 2. Assess assumptions on which statistical inference will be based
+It was determined that student performance and overall attitudes worsened from the start of the pandemic to date. Reasonably, this was to be expected given the general attitude of the collective public over the past several years, but the lasting effects to educational attainment and broader workforce needs to be looked into in order to support the widening education gap between students.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+For future research, these results could influence further studies done on varying levels of study, as potential barriers listed in this project may not be the same to students who are adults in higher education
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Limitations
+Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[See full code here](http://example.com)
