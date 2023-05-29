@@ -20,7 +20,7 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
 
 ### My Projects
 
-- [Analysis of COVID-19 Impacts to Education Attainment](http://example.com/)<br>
+- [Analysis of COVID-19 Impacts to Education Attainment](project01.md)<br>
         - R, Descriptive Analysis, Higher Education
  
 - [API Utilization and Analysis](http://example.com/)<br>
