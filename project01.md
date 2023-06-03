@@ -16,7 +16,7 @@ For future research, these results could influence further studies done on varyi
 Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
 
 
-[See full code here]([http://example.com](https://github.com/aszimmer/aszimmer.github.io/blob/master/Portfolio%20Projects/Project01.RMD)
+[See full code here](http://example.com](https://github.com/aszimmer/aszimmer.github.io/blob/master/Portfolio%20Projects/Project01.RMD) <br>
 [See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Portfolio%20Projects/Project01.pdf)
 
 
