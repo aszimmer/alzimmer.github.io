@@ -1,7 +1,4 @@
 ---
-title: "Milestone3_Zimmer.RMD"
-output: word_document
-date: '2022-08-10'
 ---
 
 ```{r setup, include=FALSE}
