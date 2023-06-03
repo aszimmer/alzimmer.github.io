@@ -1,51 +1,16 @@
-## Developer Portfolio Landing Page Template
+## Analysis of COVID-19 Impacts to Education Attainment
 
-### Introduction
+**Project description:** a descriptive analysis completed in R that focused on better understanding barriers students faced in their educational journey during the peak of the pandemic. Looking at student behavior historically can help educators address the new learning landscape.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Problem Statement
 
-<img src="images/demo.gif?raw=true"/>
+By diving into the qualitative data collected (and artifically created) by researchers, the aim was to better understand the barriers that students are facing in their educational journey in light of the pandemic. Quantifying student behavior through a qualitative lens helps drive policy and programs that can better nurture education or student well-being.
 
-### Installation
+### Results and Implications
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+It was determined that student performance and overall attitudes worsened from the start of the pandemic to date. Reasonably, this was to be expected given the general attitude of the collective public over the past several years, but the lasting effects to educational attainment and broader workforce needs to be looked into in order to support the widening education gap between students.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+For future research, these results could influence further studies done on varying levels of study, as potential barriers listed in this project may not be the same to students who are adults in higher education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+### Limitations
+Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
