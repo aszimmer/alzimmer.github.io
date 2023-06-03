@@ -14,7 +14,6 @@ The biggest takeaway from this project can be seen more closely in [Project 2](P
 The scope of the project pulled from disconnected data sources that resulted in limited generalized statements but was a strong exercise in manipulating data for analsysis and market research. 
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project03/Project03.ipynb)    <br>
-[See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project03/Project03.pdf)
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project03/Project03.ipynb) | [PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project03/Project03.pdf)
 
 
