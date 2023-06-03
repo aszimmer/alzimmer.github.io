@@ -1,22 +1,17 @@
-## Analysis of COVID-19 Impacts to Education Attainment
+## Time Series Modeling
 
-**Project description:** a descriptive analysis completed in R that focused on better understanding barriers students faced in their educational journey during the peak of the pandemic. Looking at student behavior historically can help educators address the new learning landscape.
+**Project description:** built in Python to predict sales trends using historical sales data. Project also included exploratory analysis to better understand the foundational data frame.
 
 ### Problem Statement
-
-By diving into the qualitative data collected (and artifically created) by researchers, the aim was to better understand the barriers that students are facing in their educational journey in light of the pandemic. Quantifying student behavior through a qualitative lens helps drive policy and programs that can better nurture education or student well-being.
+Using historical sales data related to previous sales is useful in predicting expected future sales. 
 
 ### Results and Implications
-
-It was determined that student performance and overall attitudes worsened from the start of the pandemic to date. Reasonably, this was to be expected given the general attitude of the collective public over the past several years, but the lasting effects to educational attainment and broader workforce needs to be looked into in order to support the widening education gap between students.
-
-For future research, these results could influence further studies done on varying levels of study, as potential barriers listed in this project may not be the same to students who are adults in higher education
+Forecasting can be challenging for many reasons, as historical data may not always be comprehensive and future events such as holidays or major marketing promotions are volatile factors of impact. The model performed relatively well but seasonality needs to be taken into deeper consideration to develop an overall more robust model.
 
 ### Limitations
-Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
+While the model is significantly more dynamic than traditional methods, time series modeling is still relatively new and additional work to solidify the historical data of any given organization is required before deployment. 
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.RMD)    <br>
-[See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.pdf)
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project07/Project07.ipynb) | [See PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project07/Project07.pdf)
 
 
