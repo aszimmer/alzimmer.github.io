@@ -14,5 +14,5 @@ Parameters are fully customizable and connected to the Reed job postings board.
 API is connected to a UK-based job posting board, so information is geographically limited to their postings.  
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project02/Project02.RMD)    <br>
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project02/Project02.ipynb)    <br>
 [See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project02/Project02.pdf)
