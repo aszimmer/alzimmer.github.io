@@ -1,22 +1,17 @@
-## Analysis of COVID-19 Impacts to Education Attainment
+## Sentiment Analysis Model
 
-**Project description:** a descriptive analysis completed in R that focused on better understanding barriers students faced in their educational journey during the peak of the pandemic. Looking at student behavior historically can help educators address the new learning landscape.
+**Project description:** sentiment analysis built in Pythong using TextBlob. TextBlob is an API that facilitates natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, and translation work.
 
 ### Problem Statement
-
-By diving into the qualitative data collected (and artifically created) by researchers, the aim was to better understand the barriers that students are facing in their educational journey in light of the pandemic. Quantifying student behavior through a qualitative lens helps drive policy and programs that can better nurture education or student well-being.
+Natural Learning Processing (NLP) is critical for computers effectively communicating with humans. NLP is what makes it possible for computers to interact with all kinds of speech (reading/hearing/speaking/etc).
 
 ### Results and Implications
-
-It was determined that student performance and overall attitudes worsened from the start of the pandemic to date. Reasonably, this was to be expected given the general attitude of the collective public over the past several years, but the lasting effects to educational attainment and broader workforce needs to be looked into in order to support the widening education gap between students.
-
-For future research, these results could influence further studies done on varying levels of study, as potential barriers listed in this project may not be the same to students who are adults in higher education
+The model successfully processed basic speech and returned positive precision, recall, and F1 scores. 
 
 ### Limitations
-Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
+This model was built to process basic speech and requires additional processing in order to handle more complex and nuanced speech.
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.RMD)    <br>
-[See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.pdf)
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project05/Project05.ipynb) | [PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project05/Project05.pdf)
 
 
