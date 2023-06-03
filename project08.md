@@ -1,22 +1,19 @@
-## Analysis of COVID-19 Impacts to Education Attainment
+##  Cluster Analysis
 
-**Project description:** a descriptive analysis completed in R that focused on better understanding barriers students faced in their educational journey during the peak of the pandemic. Looking at student behavior historically can help educators address the new learning landscape.
+**Project description:** cluster analysis done in Python using Amyotrophic Lateral Sclerosis (ALS) data.
 
 ### Problem Statement
 
-By diving into the qualitative data collected (and artifically created) by researchers, the aim was to better understand the barriers that students are facing in their educational journey in light of the pandemic. Quantifying student behavior through a qualitative lens helps drive policy and programs that can better nurture education or student well-being.
+ALS is a rare disease. To better understand ALS, researchers must collect a large amount of data in order to create clinical trials and potential biomarkers by evaluating patterns, relationships, and symmetries. 
 
 ### Results and Implications
+Evaluation of the sillhouette scores and plots shows how similar an object is to its own cluster. If the sillhouette score is large, the point belongs to the cluster it is in. As seen in the full code, this project resulted in inconsistent sillhouette scores with a high variability. The ultimate sillhouette score had an elbow score of 7, which was the most accurate in terms of clustering similar objects together. 
 
-It was determined that student performance and overall attitudes worsened from the start of the pandemic to date. Reasonably, this was to be expected given the general attitude of the collective public over the past several years, but the lasting effects to educational attainment and broader workforce needs to be looked into in order to support the widening education gap between students.
-
-For future research, these results could influence further studies done on varying levels of study, as potential barriers listed in this project may not be the same to students who are adults in higher education
 
 ### Limitations
-Historical data comparisons to current date are important to test the assumptions of researchers and what amount of noise or outliers would be anticipated within a population. Data was fabricated but meant to mimic a real-world educational environment, but actual student data is challenging to benchmark against due to privacy concerns. 
+This project was an introductory dive into clustering methods and requires further refinement for optimal results. the ALS data is sensitive to scale and would benefit from further exploratory analysis and tuning. 
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.RMD)    <br>
-[See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project01/Project01.pdf)
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project08/Project08.ipynb) | PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project08/Project08.pdf)
 
 
