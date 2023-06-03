@@ -7,7 +7,7 @@ description: >
    B.S. in Biotechnology, B.S. in Mathematics </span>
   <br><br>
   
-  [Homepage](https://aszimmer.github.io/)
+  <a href="https://aszimmer.github.io/">Homepage</a>
  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
