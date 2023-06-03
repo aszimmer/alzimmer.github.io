@@ -1,51 +1,18 @@
-## Developer Portfolio Landing Page Template
+## Predictive Analysis of Attrition Rates
 
-### Introduction
+**Project description:** a predictive analysis completed in Python that focused on better understanding employee attrition rates. 
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Problem Statement
 
-<img src="images/demo.gif?raw=true"/>
+This project sought to better understand employee behavior, specifically what would attribute to an employee’s likelihood to leave or stay at a company. Insight into this behavior can support and drive business decisions to attract and retain talent, which is more crucial than ever in such a shifting labor market. Companies hold significant amounts of data about their employees, from demographic details such as their age, marital status, and ethnicity to workforce information such as their time with company, department, and position. Tapping into this data allows companies to create a customized and unique approach that best suits their needs.
 
-### Installation
+### Results and Implications
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+The decision tree classifier model returneed a 99% accuracy score. Categorical fields that had the highest impact include age, monthly income, total working years, and years workeda t the company Lowest mpact included different job roles, gender, and how frequent business travel was.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### Limitations
+Ethically, this type of data should not be available for public analysis, as employee data is considered sensitive information and contains multitudes of personal identifying information even if unique identifiers like employee ID are withheld from the data. Realistically, if an analysis of this scale were to be performed, approval from HR business partners, legal, privacy, and key stakeholders would be required to best approach sensitive information and avoid any potential pitfalls of bias when evaluating complex employee data like demographics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.ipynb) | [PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.PDF)    <br>
+[See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04-Paper.pdf)
