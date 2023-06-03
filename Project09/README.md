@@ -1,51 +1,20 @@
-## Developer Portfolio Landing Page Template
+## Logistic Regression Modeling
 
-### Introduction
+**Project description:** a logistic regression model executed in Python that seeks to accurately determine whether an employee is ready for a promotio within the organization. 
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Problem Statement
+Understanding promotability within an organization is important to both the employee and the employer for 3 key reasons-
+1. Understanding Potential: employers can proactively look to start training and developing employees in key business areas and improve employee retention.
+2. Professional Development: leaders can use findings as a tool to develop employee reports' strengths anda reas of improvement
+3. Reduce Bias: standardizing promotion qualities can reduce implicit human bias in selecting employees for promotion
 
-<img src="images/demo.gif?raw=true"/>
+### Results and Implications
+The final logistic regression model's accuracy was approximately 80%. Features that resulted in the highest impact include department, average training score, and awards won. Least impact included number of trainings, gender, and the recruitment channel from which they were hired.
 
-### Installation
+### Limitations
+The dataset required for this type of work is sensitive in nature; thus the data used was fabricated to mimic a real-world organization. For real-world applcations, ethical data collection and analysis is pertinent to prevent bias, manipulating of data, or unfair influence over results. The project was not meant to wholly represent what population is suitable for a promotion and is only meant to act as a guiding tool for quality conversations in the workplace.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project09/Project09.ipynb) | [PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project09/Project09.pdf) <br>
+[See deck here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project09/Project09-deck.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
