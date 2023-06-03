@@ -14,7 +14,7 @@ The decision tree classifier model returneed a 99% accuracy score. Categorical f
 Ethically, this type of data should not be available for public analysis, as employee data is considered sensitive information and contains multitudes of personal identifying information even if unique identifiers like employee ID are withheld from the data. Realistically, if an analysis of this scale were to be performed, approval from HR business partners, legal, privacy, and key stakeholders would be required to best approach sensitive information and avoid any potential pitfalls of bias when evaluating complex employee data like demographics.
 
 
-[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.ipynb) [(PDF Version)](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.PDF)    <br>
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.ipynb) | [PDF Version](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04.PDF)    <br>
 [See white paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project04/Project04-Paper.pdf)
 
 
