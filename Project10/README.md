@@ -1,51 +1,19 @@
-## Developer Portfolio Landing Page Template
+## Sentiment Analysis on Employee Reviews
 
-### Introduction
+**Project description:** sentiment analysis using VADER conducted in Python that evaluated collected employee review data
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Problem Statement
+Sentiment analysis helps the business monitor team and individual performance and sentiment through feedback and reviews. Natural language processing helps organizations sift through large amounts of unstructured text data efficeintly and at scales. Tagging text by sentiment is also highly subjective and unique to the individual doing the review. By introducing machine learning, accuracy and standardization across the organization is possible.
 
-<img src="images/demo.gif?raw=true"/>
+### Results and Implications
 
-### Installation
+The resulting accuracy score from VADER did not outperform random guessing, but future work can be done to improve the defined polarity score used in this analysis. The project code shows a marked improvement of 21% between the first testing and the second testing, so quality improvement is possible in the future. 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### Limitations
+THe data required to perform this type of modeling is highly sensitive in nature and not usually shared outside of human resource professionals and direct leadreship of an employee. The dataset used was collected in partnership with Amazon MTurk workers. There are always limits to how well fabricated data can portray real people and actions.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[See full code here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project10/Project10.ipynb <br>
+[See White Paper here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project10/Project10.pdf)
+[See deck here](https://github.com/aszimmer/aszimmer.github.io/blob/master/Project10/Project10%20-%20deck.pdf)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
