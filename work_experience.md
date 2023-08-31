@@ -1,10 +1,8 @@
 ## Technical Experience
 **Programming Languages (intermediate):** Python, SQL <br>
 **Programming Languages (some proficiency)**: R <br>
-**Machine Learning Tools:** Scikit-Learn <br>
-**Data Processing Tools:** Pandas, Scikit-learn <br>
 **Data Storage:** Postgres, MySQL. Microsoft Access<br>
-**Data Visualization:** Tableau, Looker, Dataiku <br>
+**Data Visualization:** Tableau, Looker, Dataiku (Beginner) <br>
 **Other**: Microsoft Suite, Workday, SAP <br>
 
 ## Certifications
