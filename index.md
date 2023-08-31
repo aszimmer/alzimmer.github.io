@@ -6,7 +6,7 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
  
 ### Contact Me
 
-<div id="contact">
+<center><div id="contact">
         <div id="contact-form">
                 <form action="https://formspree.io/xpzebbpr" method="POST">
                 <input type="hidden" name="_subject" value="Contact Me" />
@@ -15,7 +15,7 @@ Hi, I'm Alexis! My job as a business analyst consists of performing, documenting
                 <button type="submit">Submit</button>
             </form>
         </div>
-    </div>
+    </div></center>
 ---
 
 ### My Projects
